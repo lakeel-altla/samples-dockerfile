@@ -1,4 +1,4 @@
-# /jenkins-with-plugins
+# /jenkins
 
 The jenkins image with suggested plugins and an account.
 
